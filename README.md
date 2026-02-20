@@ -16,10 +16,10 @@ User-friendly design
 🚀 Live Website
 
 👉 GitHub Pages:
-https://Neelvesh.github.io/travel-recommendation-website/
+https://Rajaneesh-GOBIN.github.io/travel-recommendation-website/
 
 👉 GitHub Repository:
-https://github.com/Neelvesh/travel-recommendation-website
+https://github.com/Rajaneesh-GOBIN/travel-recommendation-website
 
 🧩 Features
 🏠 Home Page
@@ -89,7 +89,7 @@ travel-recommendation-website/
 
 Clone the repository
 
-git clone https://github.com/Neelvesh/travel-recommendation-website.git
+git clone https://github.com/Rajaneesh-GOBIN/travel-recommendation-website.git
 
 Open the project folder
 
