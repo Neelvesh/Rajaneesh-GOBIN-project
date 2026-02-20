@@ -89,7 +89,7 @@ travel-recommendation-website/
 
 Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/travel-recommendation-website.git
+git clone https://github.com/Neelvesh/travel-recommendation-website.git
 
 Open the project folder
 
